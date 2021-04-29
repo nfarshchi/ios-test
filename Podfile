@@ -6,7 +6,7 @@ target 'ios-test' do
   use_frameworks!
   pod 'ObjectMapper'
   pod 'ReachabilitySwift'
-
+  pod 'IHProgressHUD'
   # Pods for ios-test
 
 end
